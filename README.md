@@ -1,4 +1,12 @@
-# 🪐 ☞𝐌𝐑-𝐀𝐃𝐈☜  🪐
+<p align="center"><img src="https://img.shields.io/badge/I Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+ 
+</i></b></h3>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+    𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 >
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 ## <a href="https://github.com/Mradi007/followers">
@@ -13,10 +21,10 @@
 ☞𝐌𝐑-𝐀𝐃𝐈☜ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
 </p>
 <p align="center"> 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 OF BOSS CREATION 
+ 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 𝐎𝐅 𝐁𝐎𝐒𝐒 𝐂𝐑𝐄𝐀𝐓𝐈𝐎𝐍 
  <img src="https://profile-counter.glitch.me/Mradi007/count.svg" alt="Visitors">
 </p>
-<h1 align="center"> [BOSS TOOL OWNERS]</h1>
+<h1 align="center"> [𝐁𝐎𝐒𝐒 𝐂𝐑𝐄𝐀𝐓𝐈𝐎𝐍]</h1>
 
 ![20200808_16075](https://github.com/Mradi007/Mradi007/blob/main/1686002103399.jpg)
   
