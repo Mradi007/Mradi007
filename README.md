@@ -12,7 +12,11 @@
 <p align="center">
 ☞𝐌𝐑-𝐀𝐃𝐈☜ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
 <h1 align="center"> [BOSS TOOL OWNERS]</h1>
- 
+ </p>
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/Mradi007/count.svg" alt="Visitors">
+</p>
 ![20200808_16075](https://github.com/Mradi007/Mradi007/blob/main/1686002103399.jpg)
   
 ## MY SOCIAL MEDIA INFO
