@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.shields.io/badge/I Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/BOSS %20CREATION-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 </i></b></h3>
 <h3 align="center">
@@ -7,7 +7,6 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
->
 <a href="https://github.com/Mradi007/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/MRADI007?label=FOLLOWERS OF MR-ADI&color=red&style=flat-square"></a>
 
