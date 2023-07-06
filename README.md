@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.shields.io/badge/BOSS %20CREATION-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/BOSS CREATION-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 </i></b></h3>
 <h3 align="center">
