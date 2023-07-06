@@ -8,7 +8,7 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 >
-## <a href="https://github.com/Mradi007/followers">
+<a href="https://github.com/Mradi007/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/MRADI007?label=FOLLOWERS OF MR-ADI&color=red&style=flat-square"></a>
 
 ![MRADI007](https://komarev.com/ghpvc/?username=MRADI007&color=red)
