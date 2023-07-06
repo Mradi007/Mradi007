@@ -8,7 +8,6 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 >
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 ## <a href="https://github.com/Mradi007/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/MRADI007?label=FOLLOWERS OF MR-ADI&color=red&style=flat-square"></a>
 
