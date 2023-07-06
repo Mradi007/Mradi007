@@ -1,7 +1,4 @@
-<p align="center"><img src="https://img.shields.io/badge/ 𝐁𝐎𝐒𝐒 𝐂𝐑𝐄𝐀𝐓𝐈𝐎𝐍-red?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-</i></b></h3>
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
     𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
